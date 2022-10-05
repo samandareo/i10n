@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Samandar Abdugafforov <smdeveloper04@gmail.com>, 2022.
 #
 #, fuzzy
 msgid ""
@@ -11,7 +11,7 @@ msgstr ""
 "fortisslvpn/issues\n"
 "POT-Creation-Date: 2022-05-15 19:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Samandar Abdug'afforov <smdeveloper04@gmail.com>\n"
+"Last-Translator: Samandar Abdugafforov <smdeveloper04@gmail.com>\n"
 "Language-Team: Uzbek <xinux.uz>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
